@@ -17,5 +17,5 @@ x = np.array([[120, 3, 10], [80, 2, 5], [200, 4, 20]])
 w = np.array([0.5, 20, -1])
 b = 10
 
-tahmin = np.dot(x, w) + b
+tahmin = np.dot(x, w) + b  # M X N <--> N X P should be like this
 print(f"Evin Tahmini Fiyatları: {tahmin}")

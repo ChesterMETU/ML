@@ -5,7 +5,7 @@ Buna Nümerik Diferansiyel denir.
 
 Kodlama Görevi:
 
-    Bir fonksiyon tanımla: f(x)=x2
+    Bir fonksiyon tanımla: f(x)=x^2
 
     Türev fonksiyonu yaz:
 
@@ -71,7 +71,7 @@ for i in range(100):
 Artık türev almayı ve bir değeri minimize etmeyi biliyorsun. Şimdi bunu tek bir sayı (x) için değil, iki sayı (x ve y) için yapacağız.
 
 Senaryo: 3 Boyutlu bir arazideyiz. Fonksiyonumuz bir kase (Bowl) şeklinde:
-z=f(x,y)=x2+y2
+z=f(x,y)=x^2+y^2
 
 Amacımız bu kasenin en dibini (x=0,y=0) bulmak. Ama bilgisayar başlangıçta rastgele bir yerde, mesela x=10,y=10'da.
 
